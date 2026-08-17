@@ -4,10 +4,10 @@ plugins {
 }
 
 android {
-    namespace   = "com.valkarie.valksbridge"
+    namespace   = "com.siwanonts.valksbridge"
     compileSdk  = 35
     defaultConfig {
-        applicationId = "com.valkarie.valksbridge"
+        applicationId = "com.siwanonts.valksbridge"
         minSdk        = 33
         targetSdk     = 35
         versionCode   = 1
